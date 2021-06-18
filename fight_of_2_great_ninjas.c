@@ -9,7 +9,7 @@ int swap(int *p,int *q)
 	return 0;
 }
 int main()
-{
+{ 
 	
 	int i,a[50],t,n,j;
 	
